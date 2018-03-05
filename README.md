@@ -5,7 +5,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'fldwrk/email-validator'
+gem 'email-validator', github: "FLDWRK/email-validator"
 ```
 
 And then execute:
