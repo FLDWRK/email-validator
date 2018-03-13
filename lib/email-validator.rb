@@ -1,4 +1,3 @@
-require "email-validator/version"
 require "active_model"
 
 class EmailValidator < ActiveModel::EachValidator
